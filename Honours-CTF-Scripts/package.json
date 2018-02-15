@@ -1,0 +1,9 @@
+{
+  "name": "Vuln_Service_Challange_1",
+  "version": "0.0.1",
+  "dependencies": {
+    "firefox": "0.0.1",
+    "selenium-drivers": "^2.1.0",
+    "selenium-webdriver": "^3.6.0"
+  }
+}

